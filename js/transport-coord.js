@@ -19,7 +19,7 @@ var baseballIcon = L.icon({
 });
 
 function onEachFeature(feature, layer) {
-    var popupContent = "<p>Якщо є запитання <a href = 'https://e-dem.tools/6110100000'>Перейдіть за посиланням</a></p>";
+    var popupContent = "<p>Якщо є запитання <a href = 'https://e-dem.ua/6110100000'>Перейдіть за посиланням</a></p>";
     if (feature.properties && feature.properties.popupContent) {
         popupContent += feature.properties.popupContent;
     }

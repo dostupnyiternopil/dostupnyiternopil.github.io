@@ -5,8 +5,8 @@ var fontBrail = {
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    25.600001,
-                    49.557614                    
+                    25.6009753,
+                    49.5568455                    
                 ]
             },
             "type": "Feature",
